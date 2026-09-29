@@ -29,9 +29,8 @@ I am actively aiming to:
 ## Collaboration
 I am open to collaborating around:
 - AI assistants and RAG/agentic workflows
-
-
-<!-- Copy-paste in your Readme.md file -->
+- Web applications and product-focused builds
+- Learning-driven engineering projects
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=165469708" target="_blank" style="display: block" align="center">
   <picture>
@@ -40,5 +39,3 @@ I am open to collaborating around:
   </picture>
 </a>
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->- Web applications and product-focused builds
-- Learning-driven engineering projects
